@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Project-2-RecyclerView-App</string>
+    <string name="app_name">Pizza Menu</string>
+    <string name="pizza1">Crunchy pepperoni mozzarella pizza</string>
+    <string name="pizza2">Neapolitan pepperoni pizza</string>
+    <string name="pizza3">Mixed vegetable pizza</string>
+    <string name="pizza4">Crispy pizza with meat and cheese</string>
+    <string name="pizza5">Beef basil pizza</string>
+    <string name="pizza6">Margherita pizza</string>
+    <string name="pizza7">Pepperoni pizza</string>
+    <string name="pizza8">Traditional pizza italian</string>
 </resources>
